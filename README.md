@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### About me
+- 🔭 I’m currently working on **HindermannDB**
+- 🌱 I’m currently learning **JavaFX**
+- 🤔 I’m looking for help with **Spring Boot**
+- 💬 Ask me about **Java or HTML**
+- 📫 How to reach me: **nilshindermann@gmail.com**
+
 <!--
 **nilshindermann/nilshindermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
