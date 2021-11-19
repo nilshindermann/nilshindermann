@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 #### About me
-- 🔭 I’m currently working on **Covid Game**
-- 🌱 I’m currently learning **Windows Presentation Foundation**
+- 🔭 I’m currently working on **AZUBI MANAGEMENT TOOL**
+- 🌱 I’m currently learning **Entity Framework Core**
 - 🤔 I’m looking for help with **Spring Boot**
-- 💬 Ask me about **Java or HTML**
+- 💬 Ask me about **Java** or **HTML/CSS**
 - 📫 How to reach me: **nilshindermann@mail.ch**
+- ⚡ Fun fact: **Winner** [LWZO 2021](https://www.lwzo.ch) with **Covid Game**
 
 <!--
 **nilshindermann/nilshindermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
