@@ -2,11 +2,11 @@
 
 #### About me
 - 🔭 I’m currently working on **AZUBI MANAGEMENT TOOL**
-- 🌱 I’m currently learning **Entity Framework Core**
+- 🌱 I’m currently learning **Entity Framework Core** in **WPF**
 - 🤔 I’m looking for help with **Spring Boot**
-- 💬 Ask me about **Java** or **HTML/CSS**
-- 📫 How to reach me: **nilshindermann@mail.ch**
-- ⚡ Fun fact: **Winner** [LWZO 2021](https://www.lwzo.ch) with **Covid Game**
+- 💬 Ask me about **Java** or **HTML/CSS/JavaScript**
+- 📫 How to reach me: **nilshindermann@duck.com**
+- ⚡ Projects: **[Covid Game](https://digital.lwzo.ch/projects/562)** and **[Drag Droppy](https://azo-informatik.ch/games/dragdroppy/index.html)**
 
 <!--
 **nilshindermann/nilshindermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
