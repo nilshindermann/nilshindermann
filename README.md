@@ -1,12 +1,15 @@
 ### Hi there 👋
 
 #### About me
-- 🔭 I’m currently working on **AZUBI MANAGEMENT TOOL**
-- 🌱 I’m currently learning **Entity Framework Core** in **WPF**
-- 🤔 I’m looking for help with **Spring Boot**
+- 🔭 I’m currently working on **FX-Presentation**, **Railway _(TBZ M326 Project)_** and **Memories**
+- 🌱 I’m currently learning **something new**
 - 💬 Ask me about **Java** or **HTML/CSS/JavaScript**
-- 📫 How to reach me: **nilshindermann@duck.com**
-- ⚡ Projects: **[Covid Game](https://digital.lwzo.ch/projects/562)** and **[Drag Droppy](https://azo-informatik.ch/games/dragdroppy/index.html)**
+- 📫 How to reach me: **hello@nilsh.ch**
+- ⚡ Projects:
+**[Covid Game](https://l.nilsh.ch/lwzo2021)** |
+**[Drag Droppy](https://l.nilsh.ch/droppy)** |
+**[Apple vs. Apples](https://l.nilsh.ch/avsas)**
+- 🌍 Visit me on **[Instagram](https://l.nilsh.ch/ig)** or **[YouTube](https://l.nilsh.ch/yt)**
 
 <!--
 **nilshindermann/nilshindermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
