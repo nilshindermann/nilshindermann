@@ -1,14 +1,15 @@
 ### Hi there 👋
 
 #### About me
-- 🔭 I’m currently working on **School Projects** and **[Memories](https://memories.nilsh.ch)**
-- 🌱 I’m currently learning **how pipelines work**
+- 🔭 I’m currently working on **School Projects** and **[my website](https://www.nilsh.ch)**
+- 🌱 I’m currently learning **Next.js**
 - 💬 Ask me about **Java** or **HTML/CSS/JavaScript**
 - 📫 How to reach me: **hello@nilsh.ch**
 - ⚡ Projects:
 **[Covid Game](https://l.nilsh.ch/lwzo2021)** |
 **[Drag Droppy](https://l.nilsh.ch/droppy)** |
-**[Apple vs. Apples](https://l.nilsh.ch/avsas)**
+**[Apple vs. Apples](https://l.nilsh.ch/avsas)** |
+**[Memories](https://memories.nilsh.ch)**
 - 🌍 Visit my **[Instagram](https://l.nilsh.ch/ig)** or **[YouTube](https://l.nilsh.ch/yt)**
 
 <!--
